@@ -1,7 +1,7 @@
 # KonstantinosAng
 
 I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
-Also CTO of [Aithra-Spirits](https://aithraspirits.com)
+Also CTO of [Aithra-Spirits](https://aithraspirits.com).
 
 **Academic Research** <br />
 - [ResearchGate](https://www.researchgate.net/profile/Konstantinos_Angelopoulos8) <br />
