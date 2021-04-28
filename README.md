@@ -8,6 +8,9 @@
 
 [![Konstantinos's github stats](https://github-readme-stats.vercel.app/api?username=KonstantinosAng&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KonstantinosAng?tab=repositories)
 
+<a href="https://github.com/USERNAME">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosAng&theme=light&hide_langs_below=1" />
+</a>
 
 <br />
 
