@@ -1,10 +1,7 @@
 ### Hi, I am Konstantinos! 👋.
 
 
-[![Website](https://img.shields.io/badge/CTO-AithraSpirits-green?style=flat-square)](https://aithraspirits.com)
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=KonstantinosAng&label=Views&color=blue&style=plastic" alt="digvijay173" />
-</p>
+[![Website](https://img.shields.io/badge/CTO-AithraSpirits-green?style=flat-square)](https://aithraspirits.com) <img src="https://komarev.com/ghpvc/?username=KonstantinosAng&label=Views&color=blue&style=plastic" alt="digvijay173" />
 ---
 
 ### I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
