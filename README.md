@@ -1,4 +1,5 @@
-# KonstantinosAng
+Hi, I am Konstantinos! 👋.
+---
 
 I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
 Also CTO of [Aithra-Spirits](https://aithraspirits.com).
