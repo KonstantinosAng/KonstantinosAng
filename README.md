@@ -44,7 +44,9 @@
 </p>
 
 <p align="center">
+
   ![Coding is fun](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
+
 </p>
 
 [instagram]: https://www.instagram.com/konstantinos_ag/
