@@ -30,7 +30,7 @@
 ### Links
 
 <p align="center">
-  <code><a href="" target="_blank"><img src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" /></a></code>
+  <a href="" target="_blank"><img src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" /></a>
   <!-- [<img align="center" alt="codeSTACKr | Facebook" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" />][facebook]
   [<img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/instagram.png" />][instagram]
   [<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/linkedin.png" />][linkedin]
