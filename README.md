@@ -41,14 +41,11 @@
   <a href="http://scholar.google.com/citations?user=C3MUcrcAAAAJ&hl=en" target="_blank"><img align="center" alt="codeSTACKr | Google Scholar" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/scholar.png" /></a>
   <a href="https://www.codewars.com/users/CyberBoy" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codewars.svg" /></a>
   <a href="https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codingame.png" /></a>
-  
-  ![Coding is fun](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
-
 </p>
 
 <div align="center">
 
-  
+  ![Coding is fun](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
 </div>
 
