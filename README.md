@@ -8,7 +8,7 @@
 [![Konstantinos's github stats](https://github-readme-stats.vercel.app/api?username=KonstantinosAng&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KonstantinosAng?tab=repositories)
 
 <div width="100%" style="display:flex!important;flex-direction:row;justify-content:center!important;align-items:center!important;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosAng&theme=tokyonight&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosAng&theme=tokyonight&hide_langs_below=1&layout=compact" />
 </div>
 
 <br />
