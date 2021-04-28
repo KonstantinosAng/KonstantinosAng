@@ -32,7 +32,7 @@
 **Code warrior** <br />
 - [Clash of Code](https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824)
 
-## Connect with me:
+## Links
 
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -48,5 +48,3 @@
 [researchgate]: https://www.researchgate.net/profile/Konstantinos_Angelopoulos8
 [scholar]: http://scholar.google.com/citations?user=C3MUcrcAAAAJ&hl=en
 [codewars]: https://www.codewars.com/users/CyberBoy
-
-<br />
