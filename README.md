@@ -46,5 +46,3 @@
 [scholar]: http://scholar.google.com/citations?user=C3MUcrcAAAAJ&hl=en
 [codewars]: https://www.codewars.com/users/CyberBoy
 [codingame]: https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824
-
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
