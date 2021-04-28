@@ -30,13 +30,13 @@
 ### Links
 
 <p align="center">
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Facebook" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/instagram.png" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/linkedin.png" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | ResearchGate" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/researchgate.png" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Google Scholar" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/scholar.png" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codewars.svg" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codingame.png" /></a>
+  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Facebook" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" /></a>
+  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Instagram" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/instagram.png" /></a>
+  <a href="" target="_blank"><img align="center" alt="codeSTACKr | LinkedIn" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/linkedin.png" /></a>
+  <a href="" target="_blank"><img align="center" alt="codeSTACKr | ResearchGate" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/researchgate.png" /></a>
+  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Google Scholar" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/scholar.png" /></a>
+  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codewars.svg" /></a>
+  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codingame.png" /></a>
   
   [![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)](http://piserver.ddns.net)
 </p>
