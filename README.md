@@ -38,7 +38,7 @@
   <a href="" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codewars.svg" /></a>
   <a href="" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codingame.png" /></a>
   
-  [![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)](http://piserver.ddns.net)
+  [![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)]([portfolio])
 </p>
 
 [instagram]: https://www.instagram.com/konstantinos_ag/
@@ -48,3 +48,4 @@
 [scholar]: http://scholar.google.com/citations?user=C3MUcrcAAAAJ&hl=en
 [codewars]: https://www.codewars.com/users/CyberBoy
 [codingame]: https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824
+[portfolio]: http://piserver.ddns.net
