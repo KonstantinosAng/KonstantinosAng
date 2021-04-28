@@ -30,8 +30,8 @@
 ### Links
 
 <p align="center">
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Facebook" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Instagram" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/instagram.png" /></a>
+  <a href=[facebook] target="_blank"><img align="center" alt="codeSTACKr | Facebook" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" /></a>
+  <a href=[instagram] target="_blank"><img align="center" alt="codeSTACKr | Instagram" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/instagram.png" /></a>
   <a href="" target="_blank"><img align="center" alt="codeSTACKr | LinkedIn" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/linkedin.png" /></a>
   <a href="" target="_blank"><img align="center" alt="codeSTACKr | ResearchGate" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/researchgate.png" /></a>
   <a href="" target="_blank"><img align="center" alt="codeSTACKr | Google Scholar" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/scholar.png" /></a>
