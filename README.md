@@ -36,7 +36,7 @@
   [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/linkedin.png" />][linkedin]
   [<img align="left" alt="codeSTACKr | ResearchGate" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/researchgate.png" />][researchgate]
   [<img align="left" alt="codeSTACKr | Google Scholar" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/scholar.png" />][scholar]
-  [<img align="left" alt="codeSTACKr | Codewars" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codewars.png" />][codewars]
+  [<img align="left" alt="codeSTACKr | Codewars" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codewars.svg" />][codewars]
   [<img align="left" alt="codeSTACKr | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/codingame.svg" />][codingame]
   [![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)](http://piserver.ddns.net)
 
