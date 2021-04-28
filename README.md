@@ -1,4 +1,4 @@
-### Hi, I am Konstantinos! 👋.
+**Hi, I am Konstantinos! 👋.**
 
 
 [![Website](https://img.shields.io/badge/CTO-AithraSpirits-green?style=flat-square)](https://aithraspirits.com) <img src="https://komarev.com/ghpvc/?username=KonstantinosAng&label=Views&color=blue&style=plastic" alt="digvijay173" />
@@ -24,10 +24,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-
-**Academic Research** <br />
-- [Scholar](http://scholar.google.com/citations?user=C3MUcrcAAAAJ&hl=en)
-
 **Code warrior** <br />
 - [CodeWars](https://www.codewars.com/users/CyberBoy)
 - [Clash of Code](https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824)
@@ -38,11 +34,13 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" style="color:blue" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" />][researchgate]
+[<img align="left" style="color:blue" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][scholar]
 [![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)](http://piserver.ddns.net)
 
 [instagram]: https://www.instagram.com/konstantinos_ag/
 [linkedin]: https://www.linkedin.com/in/konstantinos-angelopoulos-75b632144/
 [facebook]: https://www.facebook.com/kwstantinos.agelopoulos
 [researchgate]: https://www.researchgate.net/profile/Konstantinos_Angelopoulos8
+[scholar]: http://scholar.google.com/citations?user=C3MUcrcAAAAJ&hl=en
 
 <br />
