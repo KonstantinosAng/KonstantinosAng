@@ -43,7 +43,7 @@
   <a href="https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codingame.png" /></a>
 </p>
 
-<div align="center">
+<div align="center" height="100">
 
   ![Coding is fun](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
