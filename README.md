@@ -1,8 +1,7 @@
-## Hi, I am Konstantinos! 👋.
-<br />
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://aithraspirits.com)
+Hi, I am Konstantinos! 👋.
 
 ---
+
 ### I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
 
 [![Konstantinos's github stats](https://github-readme-stats.vercel.app/api?username=KonstantinosAng&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KonstantinosAng?tab=repositories)
