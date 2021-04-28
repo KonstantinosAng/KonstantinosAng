@@ -29,7 +29,7 @@
 
 ### Links
 
-<p align="center">
+<p align="left">
   <a href="https://www.facebook.com/kwstantinos.agelopoulos" target="_blank"><img align="center" alt="codeSTACKr | Facebook" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" /></a>
   <a href="https://www.instagram.com/konstantinos_ag/" target="_blank"><img align="center" alt="codeSTACKr | Instagram" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/instagram.png" /></a>
   <a href="https://www.linkedin.com/in/konstantinos-angelopoulos-75b632144/" target="_blank"><img align="center" alt="codeSTACKr | LinkedIn" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/linkedin.png" /></a>
