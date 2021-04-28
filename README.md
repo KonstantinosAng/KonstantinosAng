@@ -7,7 +7,7 @@
 ### I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
 [![Konstantinos's github stats](https://github-readme-stats.vercel.app/api?username=KonstantinosAng&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KonstantinosAng?tab=repositories)
 
-<div width="100%" style="display:flex!important;justify-content:center!important;align-items:center!important;">
+<div width="100%" style="display:flex!important;flex-direction:row;justify-content:center!important;align-items:center!important;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosAng&theme=light&hide_langs_below=1" />
   <div>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
