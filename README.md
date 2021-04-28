@@ -29,9 +29,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
 
-**Code warrior** <br />
-- [Clash of Code](https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824)
-
 ## Links
 
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
@@ -48,3 +45,4 @@
 [researchgate]: https://www.researchgate.net/profile/Konstantinos_Angelopoulos8
 [scholar]: http://scholar.google.com/citations?user=C3MUcrcAAAAJ&hl=en
 [codewars]: https://www.codewars.com/users/CyberBoy
+[codingame]: https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824
