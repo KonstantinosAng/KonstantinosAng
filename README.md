@@ -33,10 +33,10 @@
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.21.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.21.0/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.21.0/icons/linkedin.svg" />][linkedin]
-[<img align="left" style="color:blue" alt="codeSTACKr | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/researchgate.svg" />][researchgate]
-[<img align="left" style="color:blue" alt="codeSTACKr | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/googlescholar.svg" />][scholar]
-[<img align="left" style="color:blue" alt="codeSTACKr | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/codewars.svg" />][codewars]
-[<img align="left" style="color:blue" alt="codeSTACKr | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/codingame.svg" />][codingame]
+[<img align="left" alt="codeSTACKr | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/researchgate.svg" />][researchgate]
+[<img align="left" alt="codeSTACKr | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/googlescholar.svg" />][scholar]
+[<img align="left" alt="codeSTACKr | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/codewars.svg" />][codewars]
+[<img align="left" alt="codeSTACKr | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/codingame.svg" />][codingame]
 [![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)](http://piserver.ddns.net)
 
 [instagram]: https://www.instagram.com/konstantinos_ag/
