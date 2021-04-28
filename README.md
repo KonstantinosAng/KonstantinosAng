@@ -29,6 +29,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [instagram]: https://www.instagram.com/konstantinos_ag/
 [linkedin]: https://www.linkedin.com/in/konstantinos-angelopoulos-75b632144/
 [facebook]: https://www.facebook.com/kwstantinos.agelopoulos
