@@ -39,7 +39,6 @@
   [<img align="center" alt="codeSTACKr | Codewars" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codewars.svg" />][codewars]
   [<img align="center" alt="codeSTACKr | Codewars" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codingame.png" />][codingame]
   [![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)](http://piserver.ddns.net)
-
 </p>
 
 [instagram]: https://www.instagram.com/konstantinos_ag/
