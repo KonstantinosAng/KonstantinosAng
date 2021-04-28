@@ -1,7 +1,7 @@
 ### Hi, I am Konstantinos! 👋.
 
 
-[![Website](https://img.shields.io/badge/CTO-Aithra Spirits-green?style=flat-square)](https://aithraspirits.com)
+[![Website](https://img.shields.io/badge/CTO-AithraSpirits-green?style=flat-square)](https://aithraspirits.com)
 ---
 
 ### I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
