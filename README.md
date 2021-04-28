@@ -33,7 +33,7 @@
 
   [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" />][facebook]
   [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/instagram.png" />][instagram]
-  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.21.0/icons/linkedin.svg" />][linkedin]
+  [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/linkedin.png" />][linkedin]
   [<img align="left" alt="codeSTACKr | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/researchgate.svg" />][researchgate]
   [<img align="left" alt="codeSTACKr | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/googlescholar.svg" />][scholar]
   [<img align="left" alt="codeSTACKr | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.21.0/icons/codewars.svg" />][codewars]
