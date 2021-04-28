@@ -6,7 +6,9 @@
 [![Konstantinos's github stats](https://github-readme-stats.vercel.app/api?username=KonstantinosAng&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KonstantinosAng?tab=repositories)
 [![Konstantinos's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosAng&theme=tokyonight&layout=compact)](https://github.com/KonstantinosAng?tab=repositories)
 
-### Tools & Languages
+<div align="center">
+<h2> Tools & Languages </h2>
+</div> 
 
 <p align="center">
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
