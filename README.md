@@ -25,7 +25,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
 **Code warrior** <br />
-- [CodeWars](https://www.codewars.com/users/CyberBoy)
+- [CodeWars]()
 - [Clash of Code](https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824)
 
 ## Connect with me:
@@ -35,6 +35,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" style="color:blue" alt="codeSTACKr | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" />][researchgate]
 [<img align="left" style="color:blue" alt="codeSTACKr | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlescholar.svg" />][scholar]
+[<img align="left" style="color:blue" alt="codeSTACKr | Codewars" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codewars.svg" />][codewars]
 [![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)](http://piserver.ddns.net)
 
 [instagram]: https://www.instagram.com/konstantinos_ag/
@@ -42,5 +43,6 @@
 [facebook]: https://www.facebook.com/kwstantinos.agelopoulos
 [researchgate]: https://www.researchgate.net/profile/Konstantinos_Angelopoulos8
 [scholar]: http://scholar.google.com/citations?user=C3MUcrcAAAAJ&hl=en
+[codewars]: https://www.codewars.com/users/CyberBoy
 
 <br />
