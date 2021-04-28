@@ -27,10 +27,9 @@
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
 
----
+### Links
 
 <p align="center">
-  <h3> Links </h3>
   <a href="" target="_blank"><img align="center" alt="codeSTACKr | Facebook" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" /></a>
   <a href="" target="_blank"><img align="center" alt="codeSTACKr | Instagram" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/instagram.png" /></a>
   <a href="" target="_blank"><img align="center" alt="codeSTACKr | LinkedIn" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/linkedin.png" /></a>
