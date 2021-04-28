@@ -26,7 +26,6 @@
 
 
 **Academic Research** <br />
-- [ResearchGate](https://www.researchgate.net/profile/Konstantinos_Angelopoulos8) <br />
 - [Scholar](http://scholar.google.com/citations?user=C3MUcrcAAAAJ&hl=en)
 
 **Code warrior** <br />
@@ -38,10 +37,12 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" />][researchgate]
 [![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)](http://piserver.ddns.net)
 
 [instagram]: https://www.instagram.com/konstantinos_ag/
 [linkedin]: https://www.linkedin.com/in/konstantinos-angelopoulos-75b632144/
 [facebook]: https://www.facebook.com/kwstantinos.agelopoulos
+[researchgate]: https://www.researchgate.net/profile/Konstantinos_Angelopoulos8
 
 <br />
