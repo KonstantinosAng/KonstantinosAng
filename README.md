@@ -9,6 +9,7 @@ p## Hi, I am Konstantinos! 👋.
 [![Konstantinos's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosAng&theme=tokyonight&layout=compact)](https://github.com/KonstantinosAng?tab=repositories)
 
 ### Tools & Languages
+
 <p align="center>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -27,6 +28,7 @@ p## Hi, I am Konstantinos! 👋.
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png"></code>
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
+
 ## Links
 
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4.21.0/icons/facebook.svg" />][facebook]
