@@ -31,7 +31,7 @@
 
 <p align="center">
 
-  [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" />][facebook]
+  [<a href="https://www.facebook.com/kwstantinos.agelopoulos" target="_blank"><img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" /></a>][facebook]
   [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/instagram.png" />][instagram]
   [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/linkedin.png" />][linkedin]
   [<img align="left" alt="codeSTACKr | ResearchGate" width="22px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/researchgate.png" />][researchgate]
