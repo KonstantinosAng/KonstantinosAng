@@ -43,6 +43,8 @@
   <a href="https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codingame.png" /></a>
 </p>
 
+![Coding is fun](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
+
 [instagram]: https://www.instagram.com/konstantinos_ag/
 [linkedin]: https://www.linkedin.com/in/konstantinos-angelopoulos-75b632144/
 [facebook]: https://www.facebook.com/kwstantinos.agelopoulos
