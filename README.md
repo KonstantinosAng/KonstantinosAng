@@ -1,7 +1,7 @@
 ## Hi, I am Konstantinos! 👋.
 
 
-[![Website](https://img.shields.io/badge/CTO-AithraSpirits-green?style=flat-square)](https://aithraspirits.com) <img src="https://komarev.com/ghpvc/?username=KonstantinosAng&label=Views&color=blue&style=plastic" alt="KonstantinosAng" width="150"/> <a href="https://www.buymeacoffee.com/KonstantinosAng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+[![Website](https://img.shields.io/badge/CTO-AithraSpirits-green?style=flat-square)](https://aithraspirits.com) <img src="https://komarev.com/ghpvc/?username=KonstantinosAng&label=Views&color=blue&style=plastic" alt="KonstantinosAng" width="130"/> <a href="https://www.buymeacoffee.com/KonstantinosAng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 ---
 
 ### I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
