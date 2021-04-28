@@ -30,13 +30,13 @@
 ### Links
 
 <p align="center">
-  <a href=[facebook] target="_blank"><img align="center" alt="codeSTACKr | Facebook" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" /></a>
-  <a href=[instagram] target="_blank"><img align="center" alt="codeSTACKr | Instagram" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/instagram.png" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | LinkedIn" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/linkedin.png" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | ResearchGate" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/researchgate.png" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Google Scholar" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/scholar.png" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codewars.svg" /></a>
-  <a href="" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codingame.png" /></a>
+  <a href="https://www.facebook.com/kwstantinos.agelopoulos" target="_blank"><img align="center" alt="codeSTACKr | Facebook" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/facebook.png" /></a>
+  <a href="https://www.instagram.com/konstantinos_ag/" target="_blank"><img align="center" alt="codeSTACKr | Instagram" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/instagram.png" /></a>
+  <a href="https://www.linkedin.com/in/konstantinos-angelopoulos-75b632144/" target="_blank"><img align="center" alt="codeSTACKr | LinkedIn" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/linkedin.png" /></a>
+  <a href="https://www.researchgate.net/profile/Konstantinos_Angelopoulos8" target="_blank"><img align="center" alt="codeSTACKr | ResearchGate" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/researchgate.png" /></a>
+  <a href="http://scholar.google.com/citations?user=C3MUcrcAAAAJ&hl=en" target="_blank"><img align="center" alt="codeSTACKr | Google Scholar" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/scholar.png" /></a>
+  <a href="https://www.codewars.com/users/CyberBoy" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codewars.svg" /></a>
+  <a href="https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codingame.png" /></a>
 </p>
 
 [instagram]: https://www.instagram.com/konstantinos_ag/
