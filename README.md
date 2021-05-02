@@ -9,7 +9,6 @@
   <p> ~~~~> BIO <~~~~ </p>
  </a>
 </div>
-
 <br>
 
 [![Konstantinos's github stats](https://github-readme-stats.vercel.app/api?username=KonstantinosAng&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KonstantinosAng?tab=repositories)
