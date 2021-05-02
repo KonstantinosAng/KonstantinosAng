@@ -63,3 +63,5 @@
 [codewars]: https://www.codewars.com/users/CyberBoy
 [codingame]: https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824
 [portfolio]: http://piserver.ddns.net
+
+[![Konstantinos github trophy](https://github-profile-trophy.vercel.app/?username=KonstantinosAng&row=1)](https://github.com/KonstantinosAng/github-profile-trophy)
