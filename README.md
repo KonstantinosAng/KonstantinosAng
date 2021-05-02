@@ -7,13 +7,14 @@
  <a href="https://www.dropbox.com/s/gzaihluro2f0qwi/ANGELOPOULOS_KONSTANTINOS_CV.pdf?dl=0"> ~~~~> BIO <~~~~ </a>
 </div>
 
+<br>
+
 [![Konstantinos's github stats](https://github-readme-stats.vercel.app/api?username=KonstantinosAng&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KonstantinosAng?tab=repositories)
 [![Konstantinos's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosAng&theme=tokyonight&layout=compact)](https://github.com/KonstantinosAng?tab=repositories)
 
 <div align="center">
   <h2> Tools & Languages </h2>
 </div>
-<br />
 
 <p align="center">
   <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
