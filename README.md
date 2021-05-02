@@ -4,7 +4,7 @@
 ### I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
 
 <div align="center">
- <a href="https://www.dropbox.com/s/gzaihluro2f0qwi/ANGELOPOULOS_KONSTANTINOS_CV.pdf?dl=0"> <img src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png"/>~~~~> BIO <~~~~ </a>
+ <a href="https://www.dropbox.com/s/gzaihluro2f0qwi/ANGELOPOULOS_KONSTANTINOS_CV.pdf?dl=0"> <img height="32" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png"/>~~~~> BIO <~~~~ </a>
 </div>
 
 <br>
