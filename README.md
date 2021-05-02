@@ -6,7 +6,7 @@
 <div align="center">
  <a href="https://www.dropbox.com/s/gzaihluro2f0qwi/ANGELOPOULOS_KONSTANTINOS_CV.pdf?dl=0"> 
   <img height="32" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png"/>
-  <h4> ~~~~> BIO <~~~~ </h4>
+  <p> ~~~~> BIO <~~~~ </p>
  </a>
 </div>
 
@@ -52,7 +52,7 @@
   <a href="https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824" target="_blank"><img align="center" alt="codeSTACKr | Codewars" width="25px" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/codingame.png" /></a>
 </p>
 
-<div align="center" height="45px">
+<div align="center" height="40px">
 
   ![Coding is fun](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
