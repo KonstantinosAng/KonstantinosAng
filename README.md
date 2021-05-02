@@ -4,7 +4,7 @@
 ### I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
 
 <div align="center">
- <a href="https://www.dropbox.com/s/gzaihluro2f0qwi/ANGELOPOULOS_KONSTANTINOS_CV.pdf?dl=0"> ~~~~> BIO <~~~~ </a>
+ <a href="https://www.dropbox.com/s/gzaihluro2f0qwi/ANGELOPOULOS_KONSTANTINOS_CV.pdf?dl=0"> <img src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png"/>~~~~> BIO <~~~~ </a>
 </div>
 
 <br>
@@ -63,5 +63,3 @@
 [codewars]: https://www.codewars.com/users/CyberBoy
 [codingame]: https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824
 [portfolio]: http://piserver.ddns.net
-
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
