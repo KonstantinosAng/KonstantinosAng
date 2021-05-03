@@ -1,5 +1,5 @@
 ## Hi, I am Konstantinos! 👋.
-[![Website](https://img.shields.io/badge/CTO-AithraSpirits-green?style=flat-square)](https://aithraspirits.com) <img src="https://komarev.com/ghpvc/?username=KonstantinosAng&label=Views&color=blue&style=plastic" alt="KonstantinosAng" width="130"/> <a href="https://www.buymeacoffee.com/KonstantinosAng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="140" ></a> [![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)][portfolio]
+[![Website](https://img.shields.io/badge/CTO-AithraSpirits-green?style=flat-square)](https://aithraspirits.com) <img src="https://komarev.com/ghpvc/?username=KonstantinosAng&label=Views&color=blue&style=plastic" alt="KonstantinosAng" width="130"/> <a href="https://www.buymeacoffee.com/KonstantinosAng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="140" ></a> [![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)][portfolio] <img src="https://www.codewars.com/users/CyberBoy/badges/large" alt="Codewars Warrior" width="120"/>
 
 ### I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
 
