@@ -7,9 +7,11 @@
  <a href="https://www.dropbox.com/s/gzaihluro2f0qwi/ANGELOPOULOS_KONSTANTINOS_CV.pdf?dl=0"> 
   <img height="32" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png"/>
   <p> ~~~~> CHECK OUT MY BIO <~~~~ </p>
-  <p> or </p>
-  <p> ~~~> AUTO GITHUB RESUME BIO <~~~</p>
  </a>
+<p> or </p>
+  <a href="http://resume.github.io/?KonstantinosAng">
+    <p> ~~~> AUTO GITHUB RESUME BIO <~~~</p>
+  </a>
 </div>
 <br>
 
