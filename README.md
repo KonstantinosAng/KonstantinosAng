@@ -1,5 +1,6 @@
 ## Hi, I am Konstantinos! 👋.
-[![Website](https://img.shields.io/badge/CTO-AithraSpirits-green?style=flat-square)](https://aithraspirits.com)<img src="https://komarev.com/ghpvc/?username=KonstantinosAng&label=Views&color=blue&style=plastic" alt="KonstantinosAng" width="130"/> <a href="https://www.buymeacoffee.com/KonstantinosAng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="140" ></a>[![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)][portfolio]<a href="https://www.codewars.com/users/CyberBoy" target="_blank"><img src="https://www.codewars.com/users/CyberBoy/badges/large" alt="Codewars Warrior" width="250px"/></a>
+
+[![Website](https://img.shields.io/badge/FrontendDeveloper-GroundZeroLabs-green?style=flat-square)](https://www.groundzerolabs.com)[![Website](https://img.shields.io/badge/CTO-AithraSpirits-green?style=flat-square)](https://aithraspirits.com)<img src="https://komarev.com/ghpvc/?username=KonstantinosAng&label=Views&color=blue&style=plastic" alt="KonstantinosAng" width="130"/> <a href="https://www.buymeacoffee.com/KonstantinosAng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="140" ></a>[![website](https://img.shields.io/badge/PortfolioWebsite-Konstantinos-2648ff?style=flat-square&logo=google-chrome)][portfolio]<a href="https://www.codewars.com/users/CyberBoy" target="_blank"><img src="https://www.codewars.com/users/CyberBoy/badges/large" alt="Codewars Warrior" width="250px"/></a>
 
 ### I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
 
@@ -57,7 +58,7 @@
 
 <div align="center" width="40px!important">
 
-  ![Coding is fun](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
+![Coding is fun](https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif)
 
 </div>
 
