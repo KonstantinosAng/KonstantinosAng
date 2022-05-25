@@ -14,6 +14,10 @@
   <a href="http://resume.github.io/?KonstantinosAng">
     <p> ~~~> AUTO GITHUB RESUME BIO <~~~ </p>
   </a>
+  <p> or </p>
+  <a href="https://constantine.dev:8080/">
+    <p> ~~~> PORTFOLIO <~~~ </p>
+  </a>
 </div>
 <br>
 
