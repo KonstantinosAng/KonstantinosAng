@@ -5,24 +5,29 @@
 
 ### I am a Mechanical Engineer on the road to become a Full Stack Developer. Life is an adventure. 🚀
 
-<div align="center">
+<div align="center" style="display:flex; align-items:center; justify-content: space-evenly; width:100% ; height: 30px">
   <a href="https://www.dropbox.com/s/gzaihluro2f0qwi/ANGELOPOULOS_KONSTANTINOS_CV.pdf?dl=0"> 
     <img height="32" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png"/>
-    <p> ~~~~> CHECK OUT MY BIO <~~~~ </p>
+    <h5 style="font-weight: 700"> ~~~~> CHECK OUT MY BIO <~~~~ </h5>
   </a>
-  <p> or </p>
   <a href="http://resume.github.io/?KonstantinosAng">
-    <p> ~~~> AUTO GITHUB RESUME BIO <~~~ </p>
+    <img height="32" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png"/>
+    <h5 style="font-weight: 700"> ~~~> AUTO GITHUB RESUME BIO <~~~ </h5>
   </a>
-  <p> or </p>
   <a href="https://constantine.dev:8080/">
-    <p> ~~~> PORTFOLIO <~~~ </p>
+    <img height="32" src="" style="visibility: hidden"/>
+    <h5 style="font-weight: 700"> ~~~> PORTFOLIO <~~~ </h5>
+
   </a>
 </div>
 <br>
 
+<div align="center" style="display: flex ; flex-wrap: wrap; align-items: center ; justify-content: space-evenly ; width: 100%">
+
 [![Konstantinos's github stats](https://github-readme-stats.vercel.app/api?username=KonstantinosAng&count_private=true&include_all_commits=true&theme=radical)](https://github.com/KonstantinosAng?tab=repositories)
 [![Konstantinos's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinosAng&theme=tokyonight&layout=compact)](https://github.com/KonstantinosAng?tab=repositories)
+
+</div>
 
 <div align="center">
   <h2> Tools & Languages </h2>
