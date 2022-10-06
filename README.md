@@ -15,9 +15,8 @@
     <h5 style="font-weight: 700"> ~~~> AUTO GITHUB RESUME BIO <~~~ </h5>
   </a>
   <a href="https://constantine.dev/">
-    <img height="32" src="" style="visibility: hidden"/>
+    <!-- <img height="32" src="" style="visibility: hidden"/> -->
     <h5 style="font-weight: 700"> ~~~> PORTFOLIO <~~~ </h5>
-
   </a>
 </div>
 
