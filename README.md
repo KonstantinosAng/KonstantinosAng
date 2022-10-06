@@ -7,15 +7,15 @@
 
 <div align="center" style="display:flex ; align-items:center; justify-content: space-evenly; width:100% ; height: 30px">
   <a href="https://www.dropbox.com/s/gzaihluro2f0qwi/ANGELOPOULOS_KONSTANTINOS_CV.pdf?dl=0"> 
-    <img height="32" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png"/>
+    <img height="32" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png" />
     <h5 style="font-weight: 700"> ~~~~> CHECK OUT MY BIO <~~~~ </h5>
   </a>
   <a href="http://resume.github.io/?KonstantinosAng">
-    <img height="32" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png"/>
+    <img height="32" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png" />
     <h5 style="font-weight: 700"> ~~~> AUTO GITHUB RESUME BIO <~~~ </h5>
   </a>
   <a href="https://constantine.dev/">
-    <!-- <img height="32" src="" style="visibility: hidden"/> -->
+    <img height="32" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/portfolio.png" />
     <h5 style="font-weight: 700"> ~~~> PORTFOLIO <~~~ </h5>
   </a>
 </div>
