@@ -14,7 +14,7 @@
     <img height="32" src="https://github.com/KonstantinosAng/KonstantinosAng/blob/master/cv.png"/>
     <h5 style="font-weight: 700"> ~~~> AUTO GITHUB RESUME BIO <~~~ </h5>
   </a>
-  <a href="https://constantine.dev:8080/">
+  <a href="https://constantine.dev/">
     <img height="32" src="" style="visibility: hidden"/>
     <h5 style="font-weight: 700"> ~~~> PORTFOLIO <~~~ </h5>
 
@@ -90,4 +90,4 @@
 [scholar]: http://scholar.google.com/citations?user=C3MUcrcAAAAJ&hl=en
 [codewars]: https://www.codewars.com/users/CyberBoy
 [codingame]: https://www.codingame.com/profile/e8efc62db1e546459feda0ed44d99b2b6463824
-[portfolio]: https://constantine.dev:8080
+[portfolio]: https://constantine.dev
